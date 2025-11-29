@@ -66,6 +66,7 @@ Contents:
 
 ## 📦 Installation
 
+```bash
 git clone https://github.com/mdShakil2004/CNN-based-self-driving-car.git
 cd CNN-based-self-driving-car
 download simulator from : https://shorturl.at/1v2KB  # and Scroll up 
