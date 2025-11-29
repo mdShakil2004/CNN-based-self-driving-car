@@ -66,9 +66,9 @@ Contents:
 
 ## 📦 Installation
 
-git clone https://github.com/YOUR-USERNAME/self-driving-car-behavioral-cloning.git
-cd self-driving-car-behavioral-cloning
-download simulator from : https://github.com/udacity/self-driving-car-sim/tree/master
+git clone https://github.com/mdShakil2004/CNN-based-self-driving-car.git
+cd CNN-based-self-driving-car
+download simulator from : https://shorturl.at/1v2KB  # and Scroll up 
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
